@@ -29,7 +29,7 @@ setup(
         "torch",
         "datasets",
     ],
-    extra_require={
+    extras_require={
         "seqio_tasks": [
             "seqio",
             "t5",
